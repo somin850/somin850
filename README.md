@@ -1,16 +1,25 @@
-## Hi there 👋
+## 안녕하세요. 선한 영향력을 가진 데이터사이언티스트, 이소민입니다 👀💡
+---
+### 🖐️ About Me 
+- 산업공학과를 전공하고 있습니다.
+- 데이터, Ai, 백엔드 분야를 함께 공부하고 있습니다.
+- 다양한 사람들을 만나 알고 있는 것을 나누고, 배우는 것을 좋아합니다.
 
-<!--
-**somin850/somin850** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏃‍➡️ Achievements & Activities
+---
+#### 2025
+- Goormthon Univ. UNIST Backend Developer | 2025.03 ~
 
-Here are some ideas to get you started:
+#### 2024
+- SQL 개발자 자격증 취득| 2024.12
+- SKT DEVOCEAN YOUNG 3기| 우수 수료 | 2024.02~ 2023.11
+- 2024 제3회 오픈데이터포럼 해커톤 | 우수상 | 2024.11
+- SHINSEGAE I&C 리테일 테크 코딩 교실 멘토 | 우수 멘토 | 2024.09~ 2024.11
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 2023
+- LG CNS AI지니어스 대학생 서포터즈 활동 | 최우수 팀 | 2023.09 ~ 2023.12
+- 2023 데이터 크리에이터 캠프 수료 | 2023.10
+- LG Aimers 온라인 채널 제품 판매량 예측 해커톤 참여 | 2023.09
+- ADSP 데이터 분석 준 전문가 자격증 취득 | 2023.09
+- 성신여자 대학교 교내 소프트웨어 경시대회| 우수상 | 2023.06 ~ 2023.08
+
